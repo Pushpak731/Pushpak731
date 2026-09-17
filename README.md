@@ -33,10 +33,3 @@ Also built: [KISSAN-BAZAAR](https://github.com/Pushpak731/KISSAN-BAZAAR) — an 
 ## Contact
 
 📬 [pushpaksivasai8@gmail.com](mailto:pushpaksivasai8@gmail.com)
-
----
-
-<p>
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Pushpak731&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpak731&layout=compact&hide_border=true&langs_count=8&bg_color=00000000" alt="Top languages" />
-</p>
