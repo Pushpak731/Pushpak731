@@ -1,6 +1,6 @@
 # Pushpak
 
-**AI/ML & robotics-leaning systems** — biomedical deep learning, computer vision, and motion perception.
+**AI/ML engineer with a robotics/perception focus** — biomedical deep learning, computer vision, and real-time motion capture.
 
 CS undergrad @ Amrita Vishwa Vidyapeetham. I build machine-learning systems end to end: from research code (knowledge-primed neural networks, applied cryptography + ML) to working computer-vision applications. My current focus is the sensing side of robotics — pose estimation, 3D reconstruction, and real-time motion analysis.
 
