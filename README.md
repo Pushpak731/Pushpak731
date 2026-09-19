@@ -26,7 +26,6 @@
   <a href="#-experience--research">Experience & Research</a> &nbsp;•&nbsp;
   <a href="#-featured-projects">Featured Projects</a> &nbsp;•&nbsp;
   <a href="#-technical-toolbox">Technical Toolbox</a> &nbsp;•&nbsp;
-  <a href="#-github-telemetry">GitHub Telemetry</a> &nbsp;•&nbsp;
   <a href="#-connect">Connect</a>
 </p>
 
@@ -127,29 +126,6 @@ class PushpakSivaSai:
 | **Databases & Analytics** | `MySQL` · `MongoDB` · `Supabase` · `Pandas` · `NumPy` · `SciPy` · `Power BI` · `Matplotlib` |
 | **Hardware & Systems** | `Google Coral Edge TPU` · `ESP32` · `ZeroMQ` · `POSIX Syscalls` · `CUDA` · `ONNX` |
 | **Developer Tools** | `Git` · `GitHub` · `Linux / Bash` · `VS Code` · `Conda` |
-
-</div>
-
----
-
-## 📊 GitHub Telemetry
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushpak731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Pushpak's GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpak731&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpak731&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak Stats" />
 
 </div>
 
