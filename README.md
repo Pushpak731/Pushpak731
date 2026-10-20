@@ -99,9 +99,34 @@ class PushpakSivaSai:
 - Extracted biomechanical and kinematic metrics from human motion, exporting structured data formats (**CSV, JSON, annotated video, 3D motion files**).
 
 #### 🛍️ **Full-Stack Web Development Intern** — *Sree Vartali Sarees*
-> **2026**
+> **2026** | [sri-vartali-commerce](https://github.com/manohar-test123/sri-vartali-commerce)
 - Developed a complete full-stack e-commerce web platform for Sree Vartali Sarees with a responsive customer storefront, REST APIs, database integration, product management, and customer authentication.
 - Maintained reliable data flow and API integration across frontend and backend services following an iterative production SDLC.
+- Shipped **15 merged production pull requests (Phases 11–21)** covering admin dashboards & a Super Admin panel, schema-driven faceted search, WhatsApp-first checkout, branding & splash screens, and production acceptance audits.
+
+<details>
+<summary>📦 <b>All 15 merged pull requests — Phases 11–21</b> (click to expand)</summary>
+<br/>
+
+| Pull Request | Deliverable |
+| :--- | :--- |
+| [#21 · Phase 21](https://github.com/manohar-test123/sri-vartali-commerce/pull/50) | Official company logo from the owner-provided artwork |
+| [#20 · Phase 20](https://github.com/manohar-test123/sri-vartali-commerce/pull/49) | Company logo everywhere, splash screen, account registration |
+| [#19 · Phase 19](https://github.com/manohar-test123/sri-vartali-commerce/pull/48) | Elegant bag cart icon, sarees-focused navbar, password-first sign-in |
+| [#18 · Phase 18](https://github.com/manohar-test123/sri-vartali-commerce/pull/47) | Center navigation section |
+| [Spec v3.1](https://github.com/manohar-test123/sri-vartali-commerce/pull/45) | Build spec v3.1 — recorded Phases 12–17 and the owner-directed deviations |
+| [#17 · Phase 17](https://github.com/manohar-test123/sri-vartali-commerce/pull/44) | Owner UX pass — active nav, Buy-via-WhatsApp on product pages, 1440px layout, logo |
+| [Hotfix](https://github.com/manohar-test123/sri-vartali-commerce/pull/43) | Tolerated browser-extension attribute injection on html/body (hydration warning) |
+| [#16 · Phase 16](https://github.com/manohar-test123/sri-vartali-commerce/pull/42) | WhatsApp-first commerce — cart Buy-via-WhatsApp + persistent supplier contact dock |
+| [#15 · Phase 15](https://github.com/manohar-test123/sri-vartali-commerce/pull/30) | Production smoke runbook |
+| [#14 · Phase 14](https://github.com/manohar-test123/sri-vartali-commerce/pull/29) | §58/§59 acceptance audit — order-ID search + touch-friendly image reorder |
+| [#13 · Phase 13](https://github.com/manohar-test123/sri-vartali-commerce/pull/28) | Schema-driven facets, collection filter, collection-name search |
+| [Docs](https://github.com/manohar-test123/sri-vartali-commerce/pull/27) | Pointed the Phase 12 runbook at the owner's env location |
+| [#12 · Phase 12](https://github.com/manohar-test123/sri-vartali-commerce/pull/26) | Super Admin panel (§9) + dashboard realtime (§39) |
+| [Phase 11b](https://github.com/manohar-test123/sri-vartali-commerce/pull/25) | Phase 11 completion — missing §47/§48 mobile + image-performance items |
+| [Dashboards](https://github.com/manohar-test123/sri-vartali-commerce/pull/24) | Client dashboard — categories, collections, inventory, customers & shipping management pages |
+
+</details>
 
 ---
 
@@ -121,18 +146,21 @@ class PushpakSivaSai:
 
 ## 🌐 Open Source Contributions
 
-I actively contribute upstream to leading open-source machine learning, security, and developer ecosystems:
+I actively contribute upstream to leading open-source machine learning, security, and developer ecosystems — **8 merged pull requests** (and counting):
 
 | Ecosystem / Lab | Contribution Summary | Pull Request | State |
 | :--- | :--- | :--- | :--- |
+| **Meta ThreatExchange** | Tolerated empty list serialization for `caseNumbers` in STOPNCII threat data | [#2015](https://github.com/facebook/ThreatExchange/pull/2015) | 🟣 Merged |
+| **Meta Astryx** | Fixed `DropdownMenu` submenu flyout auto-closing behavior on light dismiss | [#6912](https://github.com/facebook/astryx/pull/6912) | 🟣 Merged |
+| **Microsoft PyRIT** | Preserved characters that the ASCII art font cannot render in console output | [#2962](https://github.com/microsoft/PyRIT/pull/2962) | 🟣 Merged |
+| **Repowise** | Joined the stderr drain before building the doctor crash detail | [#3165](https://github.com/repowise-dev/repowise/pull/3165) | 🟣 Merged |
 | **Repowise** | Deduplicated Rust mod items per `#[path]` attribute in code ingestion pipeline | [#2943](https://github.com/repowise-dev/repowise/pull/2943) | 🟣 Merged |
 | **Repowise** | Suppressed `defer_in_loop` health checks when subsequent statements break out of loop | [#2942](https://github.com/repowise-dev/repowise/pull/2942) | 🟣 Merged |
-| **Meta Astryx** | Fixed `DropdownMenu` submenu flyout auto-closing behavior on light dismiss | [#6912](https://github.com/facebook/astryx/pull/6912) | 🟢 Open |
-| **Microsoft PyRIT** | Raised explicit exceptions on characters unsupported by ASCII art rendering fonts | [#2962](https://github.com/microsoft/PyRIT/pull/2962) | 🟢 Open |
+| **ONEARMY Community Platform** | Migrated `ConfirmModal` to the new UI component system | [#4942](https://github.com/ONEARMY/community-platform/pull/4942) | 🟣 Merged |
+| **Kana Dojo** | Added a new Japanese proverb to the learning content library | [#31350](https://github.com/lingdojo/kana-dojo/pull/31350) | 🟣 Merged |
 | **Microsoft Semantic Kernel** | Excluded `ClassVar` type annotations from generated Python JSON schemas | [#14528](https://github.com/microsoft/semantic-kernel/pull/14528) | 🟢 Open |
 | **Keras** | Untracked sub-layers correctly in `Layer.__delattr__` to prevent memory retention | [#23781](https://github.com/keras-team/keras/pull/23781) | 🟢 Open |
 | **Project MONAI** | Informative logging for missing image-writer packages when `ImageWriter` fallback occurs | [#9142](https://github.com/Project-MONAI/MONAI/pull/9142) | 🟢 Open |
-| **Meta ThreatExchange** | Tolerated empty list serialization for `caseNumbers` in STOPNCII threat data | [#2015](https://github.com/facebook/ThreatExchange/pull/2015) | 🟢 Open |
 
 ---
 
