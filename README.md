@@ -146,10 +146,11 @@ class PushpakSivaSai:
 
 ## 🌐 Open Source Contributions
 
-I actively contribute upstream to leading open-source machine learning, security, and developer ecosystems — **8 merged pull requests** (and counting):
+I actively contribute upstream to leading open-source machine learning, security, and developer ecosystems — **9 merged pull requests** (and counting):
 
 | Ecosystem / Lab | Contribution Summary | Pull Request | State |
 | :--- | :--- | :--- | :--- |
+| **Meta Astryx** | Fixed sibling-mode `Tooltip` anchors never attaching when rendered inside their own ref element (collapsed `SideNav` rail) | [#7833](https://github.com/facebook/astryx/pull/7833) | 🟣 Merged |
 | **Meta ThreatExchange** | Tolerated empty list serialization for `caseNumbers` in STOPNCII threat data | [#2015](https://github.com/facebook/ThreatExchange/pull/2015) | 🟣 Merged |
 | **Meta Astryx** | Fixed `DropdownMenu` submenu flyout auto-closing behavior on light dismiss | [#6912](https://github.com/facebook/astryx/pull/6912) | 🟣 Merged |
 | **Microsoft PyRIT** | Preserved characters that the ASCII art font cannot render in console output | [#2962](https://github.com/microsoft/PyRIT/pull/2962) | 🟣 Merged |
