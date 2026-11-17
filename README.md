@@ -102,14 +102,19 @@ class PushpakSivaSai:
 > **2026** | [sri-vartali-commerce](https://github.com/manohar-test123/sri-vartali-commerce)
 - Developed a complete full-stack e-commerce web platform for Sree Vartali Sarees with a responsive customer storefront, REST APIs, database integration, product management, and customer authentication.
 - Maintained reliable data flow and API integration across frontend and backend services following an iterative production SDLC.
-- Shipped **15 merged production pull requests (Phases 11–21)** covering admin dashboards & a Super Admin panel, schema-driven faceted search, WhatsApp-first checkout, branding & splash screens, and production acceptance audits.
+- Shipped **20 merged production pull requests (Phases 11–27)** covering admin dashboards & a Super Admin panel, role separation, schema-driven faceted search, WhatsApp-first checkout, branding & splash screens, and production deployment audits.
 
 <details>
-<summary>📦 <b>All 15 merged pull requests — Phases 11–21</b> (click to expand)</summary>
+<summary>📦 <b>All 20 merged pull requests — Phases 11–27</b> (click to expand)</summary>
 <br/>
 
 | Pull Request | Deliverable |
 | :--- | :--- |
+| [#27 · Phase 27](https://github.com/manohar-test123/sri-vartali-commerce/pull/55) | Founder name in Our Story, edits removed, Account → sign-in, forgot-password flow |
+| [#25 · Phase 25](https://github.com/manohar-test123/sri-vartali-commerce/pull/54) | Role separation (client-only admin, dedicated super admin); Cloudinary + account-scope verification |
+| [#24 · Phase 24](https://github.com/manohar-test123/sri-vartali-commerce/pull/53) | Fix production sign-in: CSP blocked all client scripts on real deployments |
+| [#23 · Phase 23](https://github.com/manohar-test123/sri-vartali-commerce/pull/52) | Honest sign-in failure messages; footer cleanup |
+| [#22 · Phase 22](https://github.com/manohar-test123/sri-vartali-commerce/pull/51) | Single-row header with account icon, icon action cluster, minimal footer |
 | [#21 · Phase 21](https://github.com/manohar-test123/sri-vartali-commerce/pull/50) | Official company logo from the owner-provided artwork |
 | [#20 · Phase 20](https://github.com/manohar-test123/sri-vartali-commerce/pull/49) | Company logo everywhere, splash screen, account registration |
 | [#19 · Phase 19](https://github.com/manohar-test123/sri-vartali-commerce/pull/48) | Elegant bag cart icon, sarees-focused navbar, password-first sign-in |
@@ -146,10 +151,13 @@ class PushpakSivaSai:
 
 ## 🌐 Open Source Contributions
 
-I actively contribute upstream to leading open-source machine learning, security, and developer ecosystems — **9 merged pull requests** (and counting):
+I actively contribute upstream to leading open-source machine learning, security, and developer ecosystems — **12 merged pull requests** (and counting):
 
 | Ecosystem / Lab | Contribution Summary | Pull Request | State |
 | :--- | :--- | :--- | :--- |
+| **PyCalendar** | Fixed silently dropped properties with escaped quotes in parameter values | [#1871](https://github.com/PyCalendar/icalendar/pull/1871) | 🟣 Merged |
+| **Microsoft Semantic Kernel** | Excluded `ClassVar` type annotations from generated Python JSON schemas | [#14528](https://github.com/microsoft/semantic-kernel/pull/14528) | 🟣 Merged |
+| **Meta Astryx** | Kept `CommentPin` focusable when disabled for accessible keyboard navigation | [#8816](https://github.com/meta/astryx/pull/8816) | 🟣 Merged |
 | **Meta Astryx** | Fixed sibling-mode `Tooltip` anchors never attaching when rendered inside their own ref element (collapsed `SideNav` rail) | [#7833](https://github.com/facebook/astryx/pull/7833) | 🟣 Merged |
 | **Meta ThreatExchange** | Tolerated empty list serialization for `caseNumbers` in STOPNCII threat data | [#2015](https://github.com/facebook/ThreatExchange/pull/2015) | 🟣 Merged |
 | **Meta Astryx** | Fixed `DropdownMenu` submenu flyout auto-closing behavior on light dismiss | [#6912](https://github.com/facebook/astryx/pull/6912) | 🟣 Merged |
@@ -159,7 +167,8 @@ I actively contribute upstream to leading open-source machine learning, security
 | **Repowise** | Suppressed `defer_in_loop` health checks when subsequent statements break out of loop | [#2942](https://github.com/repowise-dev/repowise/pull/2942) | 🟣 Merged |
 | **ONEARMY Community Platform** | Migrated `ConfirmModal` to the new UI component system | [#4942](https://github.com/ONEARMY/community-platform/pull/4942) | 🟣 Merged |
 | **Kana Dojo** | Added a new Japanese proverb to the learning content library | [#31350](https://github.com/lingdojo/kana-dojo/pull/31350) | 🟣 Merged |
-| **Microsoft Semantic Kernel** | Excluded `ClassVar` type annotations from generated Python JSON schemas | [#14528](https://github.com/microsoft/semantic-kernel/pull/14528) | 🟢 Open |
+| **vLLM** | Added SRT and VTT subtitle response format support for Whisper speech-to-text API | [#62212](https://github.com/vllm-project/vllm/pull/62212) | 🟢 Open |
+| **Google OSV** | Inferred Git version ranges automatically from comparison URLs in vulnerability feeds | [#6192](https://github.com/google/osv.dev/pull/6192) | 🟢 Open |
 | **Keras** | Untracked sub-layers correctly in `Layer.__delattr__` to prevent memory retention | [#23781](https://github.com/keras-team/keras/pull/23781) | 🟢 Open |
 | **Project MONAI** | Informative logging for missing image-writer packages when `ImageWriter` fallback occurs | [#9142](https://github.com/Project-MONAI/MONAI/pull/9142) | 🟢 Open |
 
